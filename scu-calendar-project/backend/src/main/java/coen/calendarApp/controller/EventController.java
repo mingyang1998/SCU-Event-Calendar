@@ -1,13 +1,13 @@
-package coen241.calendarApp.controller;
+package coen.calendarApp.controller;
 
-import coen241.calendarApp.model.RSVP;
-import coen241.calendarApp.model.User;
-import coen241.calendarApp.model.EventTag;
-import coen241.calendarApp.model.Event;
-import coen241.calendarApp.service.EventService;
-import coen241.calendarApp.service.EventTagService;
-import coen241.calendarApp.service.RSVPService;
-import coen241.calendarApp.service.UserService;
+import coen.calendarApp.model.RSVP;
+import coen.calendarApp.model.User;
+import coen.calendarApp.model.EventTag;
+import coen.calendarApp.model.Event;
+import coen.calendarApp.service.EventService;
+import coen.calendarApp.service.EventTagService;
+import coen.calendarApp.service.RSVPService;
+import coen.calendarApp.service.UserService;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
