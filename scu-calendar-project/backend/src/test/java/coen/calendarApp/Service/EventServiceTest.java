@@ -1,8 +1,8 @@
-package coen241.calendarApp.Service;
+package coen.calendarApp.Service;
 
-import coen241.calendarApp.model.Event;
-import coen241.calendarApp.repository.EventRepository;
-import coen241.calendarApp.repository.UserRepository;
+import coen.calendarApp.model.Event;
+import coen.calendarApp.repository.EventRepository;
+import coen.calendarApp.repository.UserRepository;
 import org.checkerframework.checker.units.qual.A;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
