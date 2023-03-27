@@ -1,6 +1,6 @@
-package coen241.calendarApp.repository;
+package coen.calendarApp.repository;
 
-import coen241.calendarApp.model.User;
+import coen.calendarApp.model.User;
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.stereotype.Repository;
 
