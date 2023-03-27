@@ -1,4 +1,4 @@
-package coen241.calendarApp.controller;
+package coen.calendarApp.controller;
 
 import org.springframework.web.bind.annotation.CrossOrigin;
 import org.springframework.web.bind.annotation.GetMapping;
