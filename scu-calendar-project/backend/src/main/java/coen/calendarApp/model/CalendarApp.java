@@ -1,4 +1,4 @@
-package coen241.calendarApp.model;
+package coen.calendarApp.model;
 import java.util.ArrayList;
 
 public class CalendarApp {
