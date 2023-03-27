@@ -1,6 +1,6 @@
-package coen241.calendarApp.repository;
+package coen.calendarApp.repository;
 
-import coen241.calendarApp.model.Event;
+import coen.calendarApp.model.Event;
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.stereotype.Repository;
