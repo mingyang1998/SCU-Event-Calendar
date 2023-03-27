@@ -1,6 +1,6 @@
-package coen241.calendarApp.repository;
+package coen.calendarApp.repository;
 
-import coen241.calendarApp.model.Event;
+import coen.calendarApp.model.Event;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
