@@ -1,9 +1,9 @@
-package coen241.calendarApp.service;
+package coen.calendarApp.service;
 
-import coen241.calendarApp.model.RSVP;
-import coen241.calendarApp.model.User;
-import coen241.calendarApp.model.Event;
-import coen241.calendarApp.repository.RSVPRepository;
+import coen.calendarApp.model.RSVP;
+import coen.calendarApp.model.User;
+import coen.calendarApp.model.Event;
+import coen.calendarApp.repository.RSVPRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
