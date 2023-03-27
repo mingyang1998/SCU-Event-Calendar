@@ -1,7 +1,7 @@
-package coen241.calendarApp.service;
+package coen.calendarApp.service;
 
-import coen241.calendarApp.model.User;
-import coen241.calendarApp.repository.UserRepository;
+import coen.calendarApp.model.User;
+import coen.calendarApp.repository.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
